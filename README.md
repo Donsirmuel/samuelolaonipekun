@@ -32,7 +32,7 @@ Python Backend Developer | Web Automation Enthusiast | WEB3 Enthusiast | Synthet
 ---
 
 ## 🔗 Links
-- 🌐 [Portfolio Website](https://yourportfolio.vercel.app)
+- 🌐 [Portfolio Website](https://samuelolaonipekun-portfolio.vercel.app)
 - 🐙 [GitHub Projects](https://github.com/Donsirmuel)
 - 📫 [Email Me](mailto:samuelolaonipekun050@gmail.com)
 - 🐦 [Follow Me on X](https://x.com/_donsirmuel)
